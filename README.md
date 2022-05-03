@@ -35,6 +35,13 @@
 
 <br>
 
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha01&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
 # Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/rohit-kushwaha-88598420a/" target="_blank">
@@ -52,12 +59,7 @@
 </div>
 
 </br>
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha01&&show_icons=true&theme=radical"/>
-  </a>
 
-</p>
 
  ---
  
