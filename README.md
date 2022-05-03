@@ -1,7 +1,8 @@
-
-<h1 align="center">Hi there, I'm <a target="_blank" href="">Rohit Kushwaha</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
-
----
+ <h1 align="center" font-size="50px">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;_I'm+Rohit+Kushwaha....😊;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18925657)](https://stackoverflow.com/users/18925657/rohit-kushwaha) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Rohitkushwaha01"/>|
 |---|---|
@@ -14,8 +15,12 @@
 - 👀 Exploring web development
 - 🌱 I’m currently learning javascript/Backend And C++(Course Work)
 
-
+ 
+ <br>
+ 
 <h1>Technical Skills 👨‍💻</h1>
+
+<br>
 
 <p align="center"> 
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,6 +33,7 @@
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br>
 
 # Connect with me  
 <div align="center">
@@ -45,15 +51,21 @@
 </a>
 </div>
 
+</br>
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha01&&show_icons=true&theme=radical"/>
+  </a>
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha01&show_icons=true&theme=cobalt"></img>
-</div>
+</p>
 
  ---
  
 <div align="center">
-    More to Come.....🎯😁
+ <p>More to Come.....🎯😁</p>
 </div>
 
----
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
