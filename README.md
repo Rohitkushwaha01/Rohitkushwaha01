@@ -1,6 +1,6 @@
  <h1 align="center" font-size="50px">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;_I'm+Rohit+Kushwaha....😊;Nice+to+meet+you!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Rohit+Kushwaha..;Welcome+to+my+Profile!&center=true&size=30">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
  ---
  
  
-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I’m Rohit kushwaha a web Enthusiast.
+- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="2px" height="20px"> Hi, I’m Rohit kushwaha a web Enthusiast.
 - 🏫 Currently Doing My Engineering from Dr.D.Y.Patil institute of technology,Pimpri.
 - 👀 Exploring web development
 - 🌱 I’m currently learning javascript/Backend And C++(Course Work)
