@@ -14,6 +14,7 @@
 - 🏫 Currently Doing My Engineering from Dr.D.Y.Patil institute of technology,Pimpri.
 - 👀 Exploring web development
 - 🌱 I’m currently learning javascript/Backend And C++(Course Work)
+- ❤  feels good when my fingers hit keyboard
 
  
  <br>
