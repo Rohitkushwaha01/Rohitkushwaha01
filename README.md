@@ -44,12 +44,14 @@
 
 <br>
 
-<p align="center" >
-<a href="https://github.com/Rohitkushwaha01/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Rohitkushwaha01&&show_icons=true&theme=radical"/>
-  </a>
+<div>
 
-</p>
+|![stackoverflow card](https://github-readme-stats.vercel.app/api?username=Rohitkushwaha01&&show_icons=true&theme=radical)|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitkushwaha01&layout=compact"/>|
+|---|---|
+
+</div>
+
+
 
 # Connect with me  
 <div align="center">
