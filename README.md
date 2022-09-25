@@ -24,10 +24,10 @@
 <br>
 
 <p align="center"> 
- <img src="https://img.shields.io/badge/Java-23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img src="https://img.shields.io/badge/Java-231572B6?style=for-the-badge&logo=java&logoColor=4EA94B"/>
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
  <img alt="MongoDB" src="https://img.shields.io/badge/mongoose-lightgreen?style=for-the-badge&logo=mongoose&logoColor=4EA94B" />
@@ -35,9 +35,6 @@
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="EJS" src="https://img.shields.io/badge/ejs-CB3837?style=for-the-badge&logo=ejs&logoColor=white" />
  <img alt="C/C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
- <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
- <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
- <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=git&logoColor=white" />
  
