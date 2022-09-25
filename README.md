@@ -12,7 +12,8 @@
  
 - <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I’m Rohit kushwaha a web Enthusiast.
 - 🏫 Currently Doing My Engineering from Dr.D.Y.Patil institute of technology,Pimpri.
-- 👀 Exploring web development
+- 👨‍💻 language on which I usually work, Java and Javascript ❤
+- 👀 Exploring web development.
 - 🌱 I’m currently learning Backend.
 - ❤  feels good when my fingers hit keyboard
 
