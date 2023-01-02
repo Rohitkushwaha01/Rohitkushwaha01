@@ -72,7 +72,7 @@
  ---
  
 <div align="center">
- <p>More to Come.....🎯😁</p>
+ <p>🎯</p>
 </div>
 
 
