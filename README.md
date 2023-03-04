@@ -16,9 +16,8 @@
 - 👀 Exploring web development.
 - 🌱 I’m currently learning Backend.
 - ❤  feels good when my fingers hit keyboard
-
+<br>
  
- <br>
  
 <h1>Technical Skills 👨‍💻</h1>
 
@@ -65,6 +64,9 @@
 <a href="https://www.instagram.com/the_rohitkushwaha/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+ 
+![](https://komarev.com/ghpvc/?username=Rohitkushwaha01&color=blue)
+
 </div>
 
 </br>
