@@ -10,12 +10,12 @@
  ---
  
  
-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I’m Rohit kushwaha a web Enthusiast.
-- 🏫 Currently Doing My Engineering from Dr.D.Y.Patil institute of technology, Pimpri.
-- 👨‍💻 language on which I usually work, Java and Javascript ❤
+- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I’m Rohit kushwaha A Software Developer
+- 🏫 Currently I am a Software Developer
+- 👨‍💻 language on which I usually work Java and Javascript, python ❤
 - 👀 Revolving around semicolons.
 - 🌱 I’m currently learning AWS.
-- ❤  feels good when my fingers hit keyboard
+- ❤ feels good when my fingers hit keyboard
 <br>
  
  
