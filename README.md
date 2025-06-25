@@ -10,8 +10,8 @@
  ---
  
  
-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I’m Rohit kushwaha A Software Developer
-- 🏫 Currently I am a Software Developer
+- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"> Hi, I’m Rohit kushwaha
+- 🏫 I am a Software Developer
 - 👨‍💻 language on which I usually work Java and Javascript, python ❤
 - 👀 Revolving around semicolons.
 - 🌱 I’m currently learning AWS.
